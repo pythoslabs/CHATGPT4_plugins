@@ -2,7 +2,7 @@
 This is the repository of the  most comprehensive ChatGPT4 plugin list. 
 ### Last updated : 2023 August 16
 
-### Sample list - Travel Related plugin
+#### Sample list - Travel Related plugin
 
 
 | Name            | Description                                                                                                      |
